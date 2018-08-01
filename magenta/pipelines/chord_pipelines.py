@@ -53,4 +53,5 @@ class ChordsExtractor(pipeline.Pipeline):
       chord_progressions = []
       stats = [statistics.Counter('chord_symbol_exception', 1)]
     self._set_stats(stats)
+    
     return chord_progressions
