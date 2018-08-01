@@ -48,10 +48,9 @@ time you open a new terminal window.
 #### Manual Install
 
 If the automated script fails for any reason, or you'd prefer to install by
-hand, do the following steps.
+hand, do the following steps:
 
-First, download the
-[Python 2.7 Miniconda installer](http://conda.pydata.org/miniconda.html) (you
+First, download the [Python 2.7 Miniconda installer](http://conda.pydata.org/miniconda.html) (you
 can skip this step if you already have any variant of conda installed).
 
 Next, create and activate a Magenta conda environment using Python 2.7 with
